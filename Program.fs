@@ -1,3 +1,1 @@
-﻿open Problem2
-
-printfn "%A" response
+﻿printfn "%A" Problem1.response
